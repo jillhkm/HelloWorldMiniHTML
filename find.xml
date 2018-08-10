@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SusansCakeShop'" />
-    <option name="defaultScopeName" value="Project 'SusansCakeShop'" />
-    <option name="SEARCH_SCOPE" value="Project 'SusansCakeShop'" />
+    <option name="customScope" value="File '...\Finance-Java\web\dispatcher-servlet.xml [Finance-Java]'" />
+    <option name="defaultScopeName" value="File '...\Finance-Java\web\dispatcher-servlet.xml [Finance-Java]'" />
+    <option name="SEARCH_SCOPE" value="File '...\Finance-Java\web\dispatcher-servlet.xml [Finance-Java]'" />
   </component>
 </application>
